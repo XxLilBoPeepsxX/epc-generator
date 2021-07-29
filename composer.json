@@ -1,5 +1,5 @@
 {
-    "name": "rexlabs/epc-generator",
+    "name": "xxlilbopeepsxx/epc-generator",
     "description": "Energy Performance Graph Generator",
     "keywords": [
         "epc",
@@ -7,11 +7,11 @@
         "epc graph generator"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/rexlabsio/epc-generator",
+    "homepage": "https://github.com/xxlilbopeepsxx/epc-generator",
     "authors": [
         {
-            "name": "Andrea Marco Sartori",
-            "email": "andrea.sartori@rexsoftware.com.au",
+            "name": "Andrew Henke",
+            "email": "andrew@andrewhenke.com",
             "role": "Developer"
         }
     ],
