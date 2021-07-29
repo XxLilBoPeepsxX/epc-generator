@@ -1,6 +1,7 @@
 {
     "name": "xxlilbopeepsxx/epc-generator",
     "description": "Energy Performance Graph Generator",
+    "type": "library",
     "keywords": [
         "epc",
         "energy performance certificate",
