@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/xxlilbopeepsxx/epc-generator.svg?style=flat-square)](https://packagist.org/packages/xxlilbopeepsxx/epc-generator)
 [![Total Downloads](https://img.shields.io/packagist/dt/xxlilbopeepsxx/epc-generator.svg?style=flat-square)](https://packagist.org/packages/xxlilbopeepsxx/epc-generator)
 
-A library to generate Energy Performance Graph.
+A library to generate Energy Performance Graphs and Energy Performance Certificates for Properties.  
 
 Sample:
 
