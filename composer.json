@@ -1,5 +1,5 @@
 {
-    "name": "xxlilbopeepsxx/epc-generator",
+    "name": "andrew.c.henke/epc-generator",
     "description": "Energy Performance Graph Generator",
     "type": "library",
     "keywords": [
@@ -8,7 +8,7 @@
         "epc graph generator"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/xxlilbopeepsxx/epc-generator",
+    "homepage": "https://github.com/andrewhenke/epc-generator",
     "authors": [
         {
             "name": "Andrew Henke",
@@ -26,12 +26,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Rexlabs\\EpcGenerator\\": "src"
+            "andrewhenke\\EpcGenerator\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Rexlabs\\EpcGenerator\\Tests\\": "tests"
+            "andrewhenke\\EpcGenerator\\Tests\\": "tests"
         }
     },
     "config": {
